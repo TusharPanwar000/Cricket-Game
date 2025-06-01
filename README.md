@@ -26,4 +26,4 @@ _Add screenshots here if available, like `images/screenshot.png`_![Image](https:
 
 
    ## 🌐 Live Demo
-[Click here to play the live game]((https://tusharpanwar000.github.io/Cricket-Game/))
+[Click here to play the live game](https://tusharpanwar000.github.io/Cricket-Game/)
