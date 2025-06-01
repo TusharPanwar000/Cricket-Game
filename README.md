@@ -16,7 +16,7 @@ This is a fun and interactive **Cricket Game** built using HTML, CSS, and JavaSc
 - JavaScript (vanilla)
 
 ## 📸 Screenshots
-_Add screenshots here if available, like `images/screenshot.png`_
+_Add screenshots here if available, like `images/screenshot.png`_![Image](https://github.com/user-attachments/assets/696bb977-2c69-4365-af97-61ff8a0f4df3)
 
 ## 🚀 How to Play
 1. Open `index.html` in your browser
