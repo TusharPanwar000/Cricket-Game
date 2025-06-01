@@ -1,0 +1,25 @@
+ body{
+      text-align: center;
+    }
+.choice-button{
+  height: 100px;
+  width: 100px;
+  border: none;
+  margin: 6px;
+  background-color: lightgreen;
+   border-radius: 50px ;
+
+}
+.choice-image{
+  height: 80px;
+}
+
+#refresh-button{
+  height: 20px;
+  border: none;
+  
+}
+.refresh{
+  height: 50px;
+  border-radius: 23px;
+}
